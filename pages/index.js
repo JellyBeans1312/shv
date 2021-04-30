@@ -79,5 +79,6 @@ function Filter(props) {
       </div>
     )
   }
-  return ;
+  return null;
+  // needs work
 }
